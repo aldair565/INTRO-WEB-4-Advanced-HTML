@@ -1,0 +1,26 @@
+body{
+    background: #D80000;
+    background: -moz-linear-gradient(top, #D80000 0%, #FFFE00 100%);
+    background: -webkit-linear-gradient(top, #D80000 0%, #FFFE00 100%);
+    background: linear-gradient(to bottom, #D80000 0%, #FFFE00 100%);
+    color: black;
+}
+
+h1{
+    color: white;
+    border: 3px solid yellow;
+    background-color: red;
+}
+
+h4{
+    color: white;
+}
+
+td{
+    border: 1px solid black;
+}
+
+th{
+    background-color: white;
+    color: black;
+}
